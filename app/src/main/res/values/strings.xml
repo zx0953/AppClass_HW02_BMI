@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppClass_HW02_BMI</string>
+    <string name="BMIweb"><a href = "https://health99.hpa.gov.tw/OnlinkHealth/Onlink_BMI.aspx"> Source</a></string>
+</resources>
